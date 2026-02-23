@@ -28,7 +28,7 @@ export default function Home() {
         <div style={{ maxWidth: '600px' }}>
           <h1 style={{ fontSize: '56px', margin: '0 0 25px 0', color: '#ffffff', lineHeight: '1.1', fontWeight: '800', textShadow: '2px 2px 4px rgba(0,0,0,0.5)' }}>
             ซื้อขายปลอดภัย <br/>
-            <span style={{ color: '#3ecf8e', textShadow: '0 0 15px rgba(62, 207, 142, 0.5)' }}>ระดับเดียวกับธนาคาร</span>
+            <span style={{ color: '#3ecf8e', textShadow: '0 0 15px rgba(62, 207, 142, 0.5)' }}>ปลอดภัย ไม่โดนโกง!</span>
           </h1>
           <p style={{ fontSize: '20px', color: '#f0f0f0', marginBottom: '50px', lineHeight: '1.6', textShadow: '1px 1px 2px rgba(0,0,0,0.8)' }}>
             Rub-Klang.com แพลตฟอร์มรับกลาง (Escrow) ที่น่าเชื่อถือที่สุด ถือเงินไว้จนกว่าคุณจะได้รับสินค้า หมดปัญหาการฉ้อโกง 100%
